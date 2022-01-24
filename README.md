@@ -1,16 +1,83 @@
 ### Hi there 👋
 
-<!--
-**c4chris124/c4chris124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 𝗜 𝗮𝗺 𝗮 web developer
+- 𝗜 ❤️junnior level
 
-Here are some ideas to get you started:
+```js
+import React, {useState} from 'react'
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const ChristianCastellanos = () => {
+  const [christian, setChristian] = useState({
+    pronouns: ["He", "Him"],
+    technologies: ["JavaScript", "React", "Redux", "Node.js", "Express", "Sequileze", "PostgresSQL"],
+    hobbies: ["Learning", "Coding", "Biking", "Hiking"], 
+    funFact: "AI support in React!"
+  })
+  return (
+     <div>
+        <h1>About me<h1/>
+        <div className='about'>
+          <label>Pronouns<label/>
+          <p>{christian.pronouns}</p>
+          
+          <label>Technologies<label/>
+          <p>{christian.technologies}</p>
+          
+          <label>Hobbies<label/>
+          <p>{christian.hobbies}</p>
+        <div/>
+     <div/>
+  )
+}
+```
+## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>JavaScript</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>React js</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Redux</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Node js</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Express</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Sequelize js</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>PostgresSQL</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Git</span><br><br><br>
+       <img height="64px" src="https://cdn.worldvectorlogo.com/logos/github-icon.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+# 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+
+- 💻 [PF e-Commerce I'm Henry Bootcamp](https://github.com/NicoRob92/FrontEc)
+
+
+# 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=c4chris124&show_icons=true&hide_border=true)
