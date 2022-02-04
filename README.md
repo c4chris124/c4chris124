@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 𝗜 𝗮𝗺 𝗮 web developer
-- 𝗜 ❤️junnior level
+- 𝗜 am junnior level
 
 ```js
 import React, {useState} from 'react'
