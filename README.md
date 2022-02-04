@@ -77,7 +77,12 @@ const ChristianCastellanos = () => {
 
 - 💻 [PF e-Commerce I'm Henry Bootcamp](https://github.com/NicoRob92/FrontEc)
 
+# Check on of my proyects
+[Videogame Page](https://github.com/c4chris124/PI-Videogames-main)
+<img alt="Videogame" src="./LandingPage.png" >
+
 
 # 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=c4chris124&show_icons=true&hide_border=true)
+
