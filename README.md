@@ -78,7 +78,7 @@ const ChristianCastellanos = () => {
 - 💻 [PF e-Commerce Front-end I'm Henry Bootcamp](https://github.com/NicoRob92/FrontEcommerce)
 - 💻 [PF e-Commerce Back-end I'm Henry Bootcamp](https://github.com/Roystreet/PF_SERVICIOS)
 
-# Check on of my proyects
+# Check one of my projects
 [Videogame Page](https://github.com/c4chris124/PI-Videogames-main)
 <img alt="Videogame" src="./LandingPage.png" >
 
