@@ -83,12 +83,11 @@ const ChristianCastellanos = () => {
   </tbody>
 </table>
 
-# 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-
-- 💻 [PF e-Commerce Front-end I'm Henry Bootcamp](https://github.com/NicoRob92/FrontEcommerce)
-- 💻 [PF e-Commerce Back-end I'm Henry Bootcamp](https://github.com/Roystreet/PF_SERVICIOS)
 
 # Check one of my projects
+[Super Hero](https://github.com/c4chris124/superhero-test)
+<img alt="Super hero" src="./app.png" >
+
 [Videogame Page](https://github.com/c4chris124/PI-Videogames-main)
 <img alt="Videogame" src="./LandingPage.png" >
 
