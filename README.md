@@ -9,7 +9,7 @@ import React, {useState} from 'react'
 const ChristianCastellanos = () => {
   const [christian, setChristian] = useState({
     pronouns: ["He", "Him"],
-    technologies: ["JavaScript", "React", "Redux", "Node.js", "Express", "Sequileze", "PostgresSQL"],
+    technologies: ["JavaScript", "TypeScript", "Next JS", "React", "Redux", "Node.js", "Express", "Sequileze", "PostgresSQL"],
     hobbies: ["Learning", "Coding", "Biking", "Hiking"], 
     funFact: "AI support in React!"
   })
@@ -36,24 +36,34 @@ const ChristianCastellanos = () => {
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>JavaScript</span><br><br><br>
+        <span>JavaScript</span><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
       </td>
-      <td width="25%" align="center">
-        <span>React js</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+       <td width="25%" align="center">
+        <span>TypeScript</span><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
       </td>
       <td width="25%" align="center">
-        <span>Redux</span><br><br><br>
+        <span>Next JS</span><br><br>
+        <img height="64px" src="https://sebastian-gomez.com/nextjs.png">
+      </td>
+      <td width="55%" align="center">
+        <span>React js</span><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
+      </td>
+    </tr>
+    <tr>
+      <td width="25%" align="center">
+        <span>Redux</span><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
       </td>
       <td width="25%" align="center">
-        <span>Node js</span><br><br><br>
+        <span>Node js</span><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg">
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="50%" align="center">
         <span>Express</span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg">
       </td>
