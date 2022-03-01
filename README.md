@@ -47,7 +47,7 @@ const ChristianCastellanos = () => {
         <span>Next JS</span><br><br>
         <img height="64px" src="https://sebastian-gomez.com/nextjs.png">
       </td>
-      <td width="55%" align="center">
+      <td width="25%" align="center">
         <span>React js</span><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
       </td>
@@ -63,7 +63,7 @@ const ChristianCastellanos = () => {
       </td>
     </tr>
     <tr valign="top">
-      <td width="50%" align="center">
+      <td width="25%" align="center">
         <span>Express</span><br><br><br>
         <img height="64px" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg">
       </td>
